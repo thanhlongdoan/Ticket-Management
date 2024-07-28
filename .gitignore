@@ -1,0 +1,6 @@
+Source/packages/*
+TicketManagement.API/bin
+TicketManagement.API/obj
+TicketManagement.API/build/*
+TicketManagement.API/buildSource/*
+/.vs/*
